@@ -1,2 +1,5 @@
 # Auto-plant-watering
-The code to my automatic plant watering system
+
+### *School project* [Next Sukkertoppen](https://nextkbh.dk/gymnasier/sukkertoppen-gymnasium)
+
+The automatic plant watering system :+1: :sparkles:
