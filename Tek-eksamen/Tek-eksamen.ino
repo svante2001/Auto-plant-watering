@@ -55,4 +55,4 @@ void setup() {
         delay(10);                     // Venter 10ms på at servo når frem til positionen
      }
    }
-}k
+}
